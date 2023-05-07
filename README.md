@@ -1,3 +1,3 @@
 # MID-Project
 
-Membuat aplikasi login page dimana saat user sudah login akan menuju ke profil, untuk melihat detail user.
+Membuat aplikasi android menggunakan flutter berupa login page dimana saat user sudah login akan menuju ke profil, untuk melihat detail user.
